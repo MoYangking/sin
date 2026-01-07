@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+.idea
+.vscode
+__pycache__
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.cache
+node_modules
+dist
+build
+
